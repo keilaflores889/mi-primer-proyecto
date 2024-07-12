@@ -8,8 +8,10 @@ git status
 git add archivo
 --le dice a git para controlar archivos
 
-git add .
+git add . es para añadir todos los archivos de una en la lista de archivos
 
 git log, es el comando que se utiliza para ver el nombre, hora, fecha del proyecto
 
 git commit 
+
+git push origin main
